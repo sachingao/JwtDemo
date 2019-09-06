@@ -1,7 +1,7 @@
 package model
 
 import (
-	"MyBlog/utils"
+	"JwtDemo/utils"
 	"fmt"
 	"log"
 
